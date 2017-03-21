@@ -1,3 +1,3 @@
 # casper
-CIS Student Support System 
+Student Support System 
 
